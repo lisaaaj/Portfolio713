@@ -256,3 +256,14 @@
       font-size: 1rem;
       color: #555;
   }
+
+.timeline-content {
+  display: flex;
+  align-items: center;   /* vertical alignment */
+  gap: 15px;             /* space between image and text */
+}
+
+.timeline-img-side {
+  width: 80%;
+  border-radius: 10px;
+}
